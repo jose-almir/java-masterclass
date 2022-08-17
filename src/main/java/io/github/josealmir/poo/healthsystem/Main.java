@@ -1,7 +1,6 @@
-package io.github.josealmir.poo;
+package io.github.josealmir.poo.healthsystem;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 
 public class Main {

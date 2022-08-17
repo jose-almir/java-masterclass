@@ -1,4 +1,4 @@
-package io.github.josealmir.poo;
+package io.github.josealmir.poo.healthsystem;
 
 import java.util.List;
 
