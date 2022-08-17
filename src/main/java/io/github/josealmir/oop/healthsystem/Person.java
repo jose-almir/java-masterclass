@@ -1,4 +1,4 @@
-package io.github.josealmir.poo.healthsystem;
+package io.github.josealmir.oop.healthsystem;
 
 public abstract sealed class Person permits Doctor, Patient {
     protected Integer id;

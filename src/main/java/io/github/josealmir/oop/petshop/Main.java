@@ -1,4 +1,4 @@
-package io.github.josealmir.poo.petshop;
+package io.github.josealmir.oop.petshop;
 
 public class Main {
     public static void main(String[] args) {

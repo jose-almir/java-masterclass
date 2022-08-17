@@ -1,4 +1,4 @@
-package io.github.josealmir.poo.healthsystem;
+package io.github.josealmir.oop.healthsystem;
 
 import java.time.LocalDate;
 import java.util.List;

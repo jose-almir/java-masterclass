@@ -1,4 +1,4 @@
-package io.github.josealmir.poo.healthsystem;
+package io.github.josealmir.oop.healthsystem;
 
 public final class Doctor extends Person {
     private String crm;

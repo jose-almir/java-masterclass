@@ -1,4 +1,4 @@
-package io.github.josealmir.poo.petshop;
+package io.github.josealmir.oop.petshop;
 
 public final class Cat extends Pet {
     Cat(String name, int age, double weight, Food[] favoriteFoods) {

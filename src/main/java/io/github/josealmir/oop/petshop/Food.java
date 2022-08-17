@@ -1,4 +1,4 @@
-package io.github.josealmir.poo.petshop;
+package io.github.josealmir.oop.petshop;
 
 public record Food(String name, int price) {
 }

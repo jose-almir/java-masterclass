@@ -1,4 +1,4 @@
-package io.github.josealmir.poo.petshop;
+package io.github.josealmir.oop.petshop;
 
 import java.util.ArrayList;
 import java.util.List;
